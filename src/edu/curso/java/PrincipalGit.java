@@ -8,7 +8,7 @@ public class PrincipalGit {
 		
 		System.out.println("Inicio del programa");
 		
-		
+		CalculadoraGit calculadora = new CalculadoraGit();
 		
 		
 	}
